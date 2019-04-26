@@ -8,7 +8,7 @@ is positive , negative or neutral
 First the data is pre-processed using nltk.
 Then i saved the pre-processed data in a file, so that one can easily use this directly into colab, aws etc.
 
-I used countvectorizer to generate features for data, which use one-hot encding 
+I used countvectorizer to generate features for data, which uses one-hot encoding 
 Then i applied various classifiers and ML models like Neural networks, for prediction.
 
 Predictions from different models are saved in result files.
